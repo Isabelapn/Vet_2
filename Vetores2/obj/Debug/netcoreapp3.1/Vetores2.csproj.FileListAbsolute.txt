@@ -1,0 +1,13 @@
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Vetores2\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.exe
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Vetores2\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.deps.json
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Vetores2\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.runtimeconfig.json
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Vetores2\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.runtimeconfig.dev.json
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Vetores2\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.dll
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Vetores2\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.pdb
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Vetores2\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.csprojAssemblyReference.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Vetores2\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.AssemblyInfoInputs.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Vetores2\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.AssemblyInfo.cs
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Vetores2\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.csproj.CoreCompileInputs.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Vetores2\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.dll
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Vetores2\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.pdb
+C:\Users\isabe\OneDrive\Área de Trabalho\C#\ws.vs2019\Memoria, Arrays e Listas\Vetores2\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.genruntimeconfig.cache
